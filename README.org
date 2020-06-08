@@ -1,0 +1,7 @@
+#+TITLE: MITx 6001
+
+* Purpose
+This repo is for me to store the problem sets for MITx 6001
+
+* Lecture
+MITx 6001 Intro to CS and Programming in Python
