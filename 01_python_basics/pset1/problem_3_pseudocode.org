@@ -1,0 +1,7 @@
+#+TITLE: Problem_3_pseudocode
+
+s = 'azcbobobegghakl'
+
+* Ambil letter i
+* Kalo letter i > letter i - 1
+* Concate letter i ke ans
